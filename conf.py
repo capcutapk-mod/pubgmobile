@@ -21,6 +21,10 @@ project = 'PUBG Mobile'
 
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
+html_meta = {
+    "google-site-verification" : "1QHvzxpgASr4WgcPO1BWj2cp4bpUh1CxnGjRlyYMEX8"
+   
+}
 
 
 
