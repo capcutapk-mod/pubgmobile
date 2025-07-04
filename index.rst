@@ -4,7 +4,7 @@ How to Download PUBG Mobile Lite APK For Free 2025?
 
 .. meta::
    :msvalidate.01: 40C65CEA286BB0CDEA030FEBEB9C6E30
-:google-site-verification: 1QHvzxpgASr4WgcPO1BWj2cp4bpUh1CxnGjRlyYMEX8
+
 
 .. image:: blank.png
       :width: 350px
