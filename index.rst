@@ -8,7 +8,7 @@ PUBG Mobile Download APK Free 2025
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 10px
 
 .. image:: download.webp
       :width: 350px
@@ -20,7 +20,7 @@ PUBG Mobile Download APK Free 2025
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 10px
 
 PUBG Mobile Lite Download
 =========================
