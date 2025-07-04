@@ -10,7 +10,7 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 100px
 
-`🔽 Download PUBG Mobile Lite <https://example.com/pubg-lite.apk>`_
+:button:`https://example.com/pubg-lite.apk`
 
 
 .. image:: blank.png
