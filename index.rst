@@ -91,4 +91,4 @@ For gamers seeking a lightweight, fast, and enjoyable battle royale experience, 
 Also View
 -------------------------
 
-`` `PUBG Mobile Lite Download <https://example.com/pubg-lite.apk>`_, PUBG Lite update, Download PUBG Mobile Lite latest version, PUBG Mobile Lite Android, PUBG Lite game install, Free PUBG Mobile Lite``
+`` `PUBG Mobile Lite Download <https://pubgmlite.co.in/>`_, PUBG Lite update, Download PUBG Mobile Lite latest version, PUBG Mobile Lite Android, PUBG Lite game install, Free PUBG Mobile Lite``
