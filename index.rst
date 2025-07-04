@@ -28,7 +28,7 @@ PUBG Mobile Lite Download
 Optimized Battle Royale for Low-End Devices
 -------------------------------------------
 
-`PUBG Mobile Lite Download <https://example.com/pubg-lite.apk>`_ **`PUBG Mobile Lite <https://pubgmlite.co.in>`_** is the lighter and more accessible version of the globally popular game **PUBG Mobile**, specifically designed for devices with low RAM and limited storage capacity. If you’re a gamer with a budget Android phone or a device that struggles with high-end graphics, PUBG Mobile Lite offers the same intense battle royale experience in a much smaller package. 
+`PUBG Mobile Lite <https://example.com/pubg-lite.apk>`_ is the lighter and more accessible version of the globally popular game **PUBG Mobile**, specifically designed for devices with low RAM and limited storage capacity. If you’re a gamer with a budget Android phone or a device that struggles with high-end graphics, PUBG Mobile Lite offers the same intense battle royale experience in a much smaller package. 
 
 Let’s explore everything about **PUBG Mobile Lite download**, including features, compatibility, and how you can install it easily.
 
@@ -90,4 +90,4 @@ For gamers seeking a lightweight, fast, and enjoyable battle royale experience, 
 Also View
 -------------------------
 
-``PUBG Mobile Lite Download, PUBG Lite APK, PUBG Lite update, Download PUBG Mobile Lite latest version, PUBG Mobile Lite Android, PUBG Lite game install, Free PUBG Mobile Lite``
+`` `PUBG Mobile Lite Download <https://example.com/pubg-lite.apk>`_, PUBG Lite update, Download PUBG Mobile Lite latest version, PUBG Mobile Lite Android, PUBG Lite game install, Free PUBG Mobile Lite``
